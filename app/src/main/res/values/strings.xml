@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">camera</string>
+    <string name="front_camera">Front Camera</string>
+    <string name="back_camera">Back Camera</string>
+    <string name="capture">Capture</string>
+    <string name="settings">Settings</string>
+    <string name="fps">FPS</string>
+    <string name="focusrange">FocusRange</string>
+    <string name="exposuretime">ExposureTime</string>
+    <string name="imagecnt">ImageCnt</string>
+</resources>
